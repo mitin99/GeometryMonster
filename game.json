@@ -463,7 +463,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.536
+        "zoomFactor": 0.3959999999999999
       },
       "objectsGroups": [],
       "variables": [],
@@ -3713,7 +3713,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.6199999999999997
+        "zoomFactor": 0.4399999999999995
       },
       "objectsGroups": [],
       "variables": [],
@@ -3762,7 +3762,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Hướng dẫn:\nĐiều khiển chú quái vật dễ thương hứng đồ ăn khoái khẩu của chú \nlà những khối hình học rơi từ trên trời xuống.\nChú ý tránh những quả bom nhé không là chú sẽ bị thương và \ngameover đó.\n\n\n\n\n\n\n\n\n\n\n\n\nGame được thiết kế bởi Dương Minh Tiến\nSử dụng công cụ GDevelop 5 và tham khảo hướng dẫn trên wiki\ncủa GDevelop.",
+          "string": "Hướng dẫn:\nĐiều khiển chú quái vật dễ thương hứng đồ ăn khoái khẩu của chú \nlà những khối hình học rơi từ trên trời xuống.\nChú ý tránh những quả bom nhé không là chú sẽ bị thương và \ngameover đó.\n\n\n\n\n\n\n\nGame được thiết kế bởi Dương Minh Tiến\nSử dụng công cụ GDevelop 5 và tham khảo hướng dẫn trên wiki\ncủa GDevelop.",
           "font": "",
           "characterSize": 20,
           "color": {
